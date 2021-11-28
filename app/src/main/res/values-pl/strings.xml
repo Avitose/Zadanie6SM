@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_name_hint">Wpisz nazwe zadania</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Zrobione</string>
+    <string name="task_add_new">Dodaj zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Schowaj podtytuł</string>
+    <string name="subtitle_format">%1$d zadań</string>
+    <string name="app_name">Zadanie7SM</string>
+</resources>

@@ -71,6 +71,7 @@ public class TaskFragment extends Fragment {
         });
 
         dateButton.setText(task.getDate().toString());
+        dateButton.setEnabled(false);
 
         doneCheckBox.setChecked(task.isDone());
         doneCheckBox.setOnCheckedChangeListener((compoundButton, b) -> {

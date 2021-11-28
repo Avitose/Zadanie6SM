@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Szymon/AndroidStudioProjects/Zadanie6SM/app/src/main/res/drawable/item_list_rectangle.xml" value="0.2911458333333333" />
         <entry key="..\:/Users/Szymon/AndroidStudioProjects/Zadanie6SM/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Szymon/AndroidStudioProjects/Zadanie6SM/app/src/main/res/layout/fragment_task.xml" value="0.1793478260869565" />
         <entry key="..\:/Users/Szymon/AndroidStudioProjects/Zadanie6SM/app/src/main/res/layout/fragment_task_list.xml" value="0.24010416666666667" />
-        <entry key="..\:/Users/Szymon/AndroidStudioProjects/Zadanie6SM/app/src/main/res/layout/list_item_task.xml" value="0.1" />
+        <entry key="..\:/Users/Szymon/AndroidStudioProjects/Zadanie6SM/app/src/main/res/layout/list_item_task.xml" value="0.22" />
+        <entry key="..\:/Users/Szymon/AndroidStudioProjects/Zadanie6SM/app/src/main/res/menu/fragment_task_menu.xml" value="0.259375" />
       </map>
     </option>
   </component>

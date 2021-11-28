@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menuItemTextSize">10dp</dimen>
+    <dimen name="defaultTextSize">14dp</dimen>
+    <dimen name="headerTextSize">18dp</dimen>
+    <dimen name="task_item_padding">10dp</dimen>
+    <dimen name="list_item_layout_margin">2dp</dimen>
+    <dimen name="button_padding">5dp</dimen>
+    <dimen name="textview_padding">5dp</dimen>
+    <dimen name="rectangle_padding">20dp</dimen>
+    <dimen name="rectangle_corner_radius">2dp</dimen>
+</resources>
